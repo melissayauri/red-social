@@ -4,6 +4,21 @@
     padding: 0;
   }
 
+/*header*/
+img[alt="logo-menu"]{
+	height: 5vh;
+}
+
+.subtitle-h2{
+	color: white;
+	margin: 15px;
+}
+
+.subtitle-h2:hover{
+	color: #ffffff;
+}
+
+
 /* PHOTOS CARD*/
 .photo-card{
   height: 30vh;

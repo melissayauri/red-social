@@ -4,6 +4,24 @@
   font-family: 'Poppins', sans-serif;
 
 }
+
+.navbar-inverse{
+  margin: 0;
+}
+
+img[alt="logo-menu"]{
+	height: 5vh;
+}
+
+.subtitle-h2{
+	color: white;
+	margin: 15px;
+}
+
+.subtitle-h2:hover{
+	color: #ffffff;
+}
+
 .line{
 outline: 1px solid red;
 }
@@ -46,6 +64,12 @@ outline: 1px solid red;
 
 .return{
   color:white;
+}
+
+/*buscar oficio*/
+
+.text-center{
+  text-align: center;
 }
 
 @media (min-width: 992px) {
